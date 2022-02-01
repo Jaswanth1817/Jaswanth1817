@@ -5,7 +5,7 @@
 </div>
 
 I am Mouli, a CS Student from KL University, Vijayawada.
-- 💻 I’m a FullStack Developer and ML Enthusiast. 
+- 💻 I’m a FullStack Developer . 
 - 👯 I love to work on React. <br />
 - 📫 How to reach me:  [Mail me](mailto:kongarajaswanth4@gmail.com) 
 - 😄 Pronouns: He/Him  <br />
