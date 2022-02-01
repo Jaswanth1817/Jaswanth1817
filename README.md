@@ -4,7 +4,7 @@
  <img src="giphy2.gif" height = "200px"/> 
 </div>
 
-I am Mouli, a CS Student from KL University, Vijayawada.
+I am Mouli, a CSE Student from KL University, Vijayawada.
 - 💻 I’m a FullStack Developer . 
 - 👯 I love to work on React. <br />
 - 📫 How to reach me:  [Mail me](mailto:kongarajaswanth4@gmail.com) 
